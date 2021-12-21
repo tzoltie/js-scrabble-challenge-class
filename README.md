@@ -98,4 +98,4 @@ Your solution should support the ability to define specific letters as double an
 Similar to above, your solution should support the ability to define double and triple word scores. To indicate a double word score, the submitted word will be enclose in a pair of curly brackets (for example `{dog}`), and for triple word score a pair of square brackets (`[dog]`). Your solution should detect these brackets and apply the correct score modifications. You should add tests for this functionality to the spec file.
 
 ### Concise Code
-Split up your `score` method in to multiple smaller methods that do one thing only. Read this [article on Clean Functions](https://dev.to/danialmalik/a-brief-guide-to-clean-code-functions-104h) and apply the principles you think are relevant.
+Split up your `score` method in to multiple smaller methods that do one thing only. Read this [article on Clean Functions](https://github.com/ryanmcdermott/clean-code-javascript#functions) and apply the principles you think are relevant.
