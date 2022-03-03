@@ -3,7 +3,7 @@
 Welcome to the Scrabble challenge!
 
 ## Learning Objectives
-- Build a simple program using functions, loops, and flow control
+- Build a simple program using classes, functions, loops, and flow control
 - Use `git` & GitHub to commit work and open a Pull Request
 
 ## Instructions
